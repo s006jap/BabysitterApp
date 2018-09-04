@@ -1,0 +1,9 @@
+﻿/*This file has been created to store any config variables needed, such as bedtime for sure, etc*/
+
+{
+	"Data": {
+		"DefaultConnection": {
+			"ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=_CHANGE_ME;Trusted_Connection=True;"
+		}
+	}
+}

@@ -54,6 +54,7 @@ namespace BabysitterApp
                 {
                     b.EndTime = endTime;
 
+                    if (b.IsEndTimeValid() && b.IsTimesValid())
                     {
                         isEndTimeValid = true;
                     }

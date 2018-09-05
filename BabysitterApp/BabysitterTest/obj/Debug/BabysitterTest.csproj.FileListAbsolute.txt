@@ -1,0 +1,5 @@
+C:\Users\jap011\Documents\GitHub\BabysitterApp\BabysitterApp\BabysitterTest\bin\Debug\BabysitterTest.dll
+C:\Users\jap011\Documents\GitHub\BabysitterApp\BabysitterApp\BabysitterTest\bin\Debug\BabysitterTest.pdb
+C:\Users\jap011\Documents\GitHub\BabysitterApp\BabysitterApp\BabysitterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jap011\Documents\GitHub\BabysitterApp\BabysitterApp\BabysitterTest\obj\Debug\BabysitterTest.dll
+C:\Users\jap011\Documents\GitHub\BabysitterApp\BabysitterApp\BabysitterTest\obj\Debug\BabysitterTest.pdb
